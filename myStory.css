@@ -1,0 +1,136 @@
+body {
+  
+}
+
+.profile {
+  display: inline-block;
+    
+}
+
+.profile_pic {
+  margin-top: 10px;
+  border-bottom: solid;
+  width:280px;
+  height: 240px;
+  float: left;
+  
+}
+
+.profile_pic2 {
+  margin-top: 0px;
+  width:200px;
+  float: right;
+  
+}
+
+.name {
+  margin:auto;
+  margin-top: 80px;
+  margin-bottom: 130px;
+  font-size: 50px;
+  font-family: OCR A Std, monospace, sans-serif;
+  background-color: #E32636;
+  width: 400px;
+  border-radius: 50px;
+  text-align: center;
+  color: white;
+}
+
+.who {
+  font-size: 20px;
+  background-color:#E32636;
+  color: white;
+  border-radius: 20px;
+  padding: 5px 10px;
+}
+
+.story{
+  margin-left:280px;
+  border-left: solid;
+  padding-left:20px;
+  font-family: OCR A Std, monospace;
+   
+}
+
+.education {
+  margin-left:280px;
+  border-left: solid;
+  padding-left:20px;
+  font-family: OCR A Std, monospace;
+  margin-top: 80px;
+   
+}
+
+.education_pic {
+  box-sizing: border-box;
+  margin-top: 90px;
+  border-bottom: solid;
+  width:280px;
+  height: 210px;
+  float: left;
+  
+}
+
+.education_pic2 {
+  margin-top: 100px;
+  width:180px;
+  height: 150px;
+  float: right;
+  padding:0px
+  
+}
+
+.experience_pic {
+  box-sizing: border-box;
+  margin-top: 100px;
+  border-bottom: solid;
+  width:280px;
+  height: 210px;
+  float: left;
+}
+
+.experience_pic2 {
+  box-sizing: border-box;
+  margin-top: 150px;
+  width:250px;
+  height: 150px;
+  float: right;
+  padding:0px;
+    
+}
+
+.contact {
+  font-size: 20px;
+  width:250px;
+  background-color:#E32636;
+  color: white;
+  border-radius: 20px;
+  padding: 5px 10px;
+  font-family: OCR A Std, monospace, sans-serif;
+  margin-bottom: 40px;
+    
+}
+
+table {
+  border-left: solid;
+  margin-top: 90px;
+}
+
+.contact_pic {
+  box-sizing: border-box;
+  margin-top: 50px;
+  border-bottom: solid;
+  width:280px;
+  height: 210px;
+  float: left;
+}
+
+.find_me {
+  margin-left:280px;
+  border-left: ;
+  padding-left:20px;
+  font-family: OCR A Std, monospace;
+  margin-top: 80px;
+  
+   
+}
